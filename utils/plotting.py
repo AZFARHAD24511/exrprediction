@@ -3,6 +3,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import arabic_reshaper
 from bidi.algorithm import get_display
+from utils.decorators import error_handler
+
 
 @error_handler
 def plot_forecast_farsi(dates, actual, next_date, pred, model_name):
