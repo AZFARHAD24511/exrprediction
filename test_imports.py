@@ -2,7 +2,7 @@
 print("=== Testing project imports ===")
 
 try:
-    from bot.bot_handlers import handle_message
+    from bot.bot_handlers import BotHandlers
     from bot.bot_runner import run_bot
     from data.data_loader import load_data
     from data.data_processor import process_data
