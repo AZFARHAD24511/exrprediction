@@ -11,6 +11,8 @@ from utils.plotting import plot_forecast_farsi
 from data.data_processor import get_full_data
 from model.forecasting import prepare_features, train_models, build_next_features
 from model.model_evaluation import evaluate_model
+from sklearn.preprocessing import StandardScaler
+from datetime import timedelta
 
 class BotHandlers:
     def __init__(self, bot):
@@ -42,7 +44,7 @@ class BotHandlers:
                 buf = BytesIO()
                 df.to_csv(buf, encoding='utf-8')
                 buf.seek(0)
-                self.bot.send_document(message.chat.id, ('dollar_data.csv', buf))
+                self.bot.send_document(message.chat.id, buf, filename='dollar_data.csv')
             else:
                 self.bot.reply_to(message, 'کد دانلود نامعتبر است.')
 
