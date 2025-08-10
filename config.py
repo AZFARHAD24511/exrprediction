@@ -1,3 +1,4 @@
+%%writefile config.py
 import os
 import random
 
@@ -20,8 +21,8 @@ MODEL_CONFIG = {
     }
 }
 
-# تنظیمات مسیرها
+# تنظیمات مسیرها - اصلاح شده برای استفاده از مسیر محلی
 DATA_PATHS = {
-    'trends_csv': "/content/drive/MyDrive/google_trends_data",
+    'trends_csv': "data",  # تغییر مسیر به دایرکتوری data/
     'trends_files': ["partial_data.csv", "partial_data_new.csv"]
 }
