@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn.metrics import mean_squared_error, r2_score
+from utils.decorators import error_handler
 
 @error_handler
 def safe_mape(y_true, y_pred):
