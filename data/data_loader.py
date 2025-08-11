@@ -1,4 +1,3 @@
-%%writefile data/data_loader.py
 import requests
 import pandas as pd
 import re
