@@ -2,11 +2,7 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
-
 from utils.decorators import timer
-import os
-print("Running forecasting.py from:", os.path.abspath(__file__))
-
 # دیکشنری نگاشت نام کلاس به کلاس پایتون
 MODEL_MAP = {
     'RandomForestRegressor': RandomForestRegressor,
