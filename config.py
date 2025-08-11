@@ -1,4 +1,3 @@
-%%writefile config.py
 import os
 import random
 
