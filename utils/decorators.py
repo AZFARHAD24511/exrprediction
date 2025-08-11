@@ -1,17 +1,22 @@
-import functools
-import traceback
-from utils.logger import setup_logger
+# utils/decorators.py
+import time
+import logging
+from functools import wraps
 
-logger = setup_logger(__name__)
+logger = logging.getLogger(__name__)
 
-def error_handler(func):
-    """دکوراتور برای مدیریت خطاها و ثبت لاگ"""
-    @functools.wraps(func)
+def timer(func):
+    @wraps(func)
     def wrapper(*args, **kwargs):
+        start = time.time()
         try:
-            return func(*args, **kwargs)
+            result = func(*args, **kwargs)
+            elapsed = time.time() - start
+            logger.info(f"{func.__name__} finished in {elapsed:.3f}s")
+            return result
         except Exception as e:
-            logger.error(f"Error in {func.__name__}: {e}")
-            logger.error(traceback.format_exc())
-            return None
+            # لاگ کامل استک‌ترَیس
+            logger.exception(f"Error in {func.__name__}: {e}")
+            # خیلی مهم — دوباره پرتاب کن تا فراخوان بفهمه خطا بوده
+            raise
     return wrapper
