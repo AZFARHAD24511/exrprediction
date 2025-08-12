@@ -1,201 +1,221 @@
 date,value,category,topic
-2025-08-02,63,Economics,Finance
-2025-08-03,55,Economics,Finance
-2025-08-04,100,Economics,Finance
-2025-08-05,99,Economics,Finance
-2025-08-06,96,Economics,Finance
-2025-08-07,94,Economics,Finance
-2025-08-08,87,Economics,Finance
-2025-08-09,61,Economics,Finance
-2025-08-10,60,Economics,Finance
-2025-08-11,99,Economics,Finance
-2025-08-02,56,Economics,Stock Market
-2025-08-03,48,Economics,Stock Market
-2025-08-04,89,Economics,Stock Market
+2025-08-02,55,Economics,Finance
+2025-08-03,50,Economics,Finance
+2025-08-04,87,Economics,Finance
+2025-08-05,86,Economics,Finance
+2025-08-06,84,Economics,Finance
+2025-08-07,83,Economics,Finance
+2025-08-08,77,Economics,Finance
+2025-08-09,54,Economics,Finance
+2025-08-10,51,Economics,Finance
+2025-08-11,88,Economics,Finance
+2025-08-12,100,Economics,Finance
+2025-08-02,55,Economics,Stock Market
+2025-08-03,50,Economics,Stock Market
+2025-08-04,87,Economics,Stock Market
 2025-08-05,81,Economics,Stock Market
-2025-08-06,90,Economics,Stock Market
-2025-08-07,100,Economics,Stock Market
+2025-08-06,89,Economics,Stock Market
+2025-08-07,95,Economics,Stock Market
 2025-08-08,76,Economics,Stock Market
-2025-08-09,52,Economics,Stock Market
-2025-08-10,50,Economics,Stock Market
-2025-08-11,85,Economics,Stock Market
-2025-08-02,67,Economics,Inflation
-2025-08-03,69,Economics,Inflation
-2025-08-04,82,Economics,Inflation
-2025-08-05,78,Economics,Inflation
-2025-08-06,88,Economics,Inflation
-2025-08-07,80,Economics,Inflation
-2025-08-08,79,Economics,Inflation
-2025-08-09,77,Economics,Inflation
-2025-08-10,83,Economics,Inflation
-2025-08-11,100,Economics,Inflation
-2025-08-02,81,Economics,GDP
-2025-08-03,83,Economics,GDP
-2025-08-04,79,Economics,GDP
-2025-08-05,82,Economics,GDP
-2025-08-06,90,Economics,GDP
-2025-08-07,93,Economics,GDP
-2025-08-08,87,Economics,GDP
-2025-08-09,89,Economics,GDP
-2025-08-10,100,Economics,GDP
-2025-08-11,89,Economics,GDP
+2025-08-09,53,Economics,Stock Market
+2025-08-10,49,Economics,Stock Market
+2025-08-11,88,Economics,Stock Market
+2025-08-12,100,Economics,Stock Market
+2025-08-02,41,Economics,Inflation
+2025-08-03,41,Economics,Inflation
+2025-08-04,53,Economics,Inflation
+2025-08-05,50,Economics,Inflation
+2025-08-06,55,Economics,Inflation
+2025-08-07,51,Economics,Inflation
+2025-08-08,50,Economics,Inflation
+2025-08-09,50,Economics,Inflation
+2025-08-10,53,Economics,Inflation
+2025-08-11,68,Economics,Inflation
+2025-08-12,100,Economics,Inflation
+2025-08-02,65,Economics,GDP
+2025-08-03,64,Economics,GDP
+2025-08-04,66,Economics,GDP
+2025-08-05,69,Economics,GDP
+2025-08-06,77,Economics,GDP
+2025-08-07,73,Economics,GDP
+2025-08-08,70,Economics,GDP
+2025-08-09,75,Economics,GDP
+2025-08-10,78,Economics,GDP
+2025-08-11,75,Economics,GDP
+2025-08-12,100,Economics,GDP
 2025-08-02,58,Economics,Unemployment
 2025-08-03,82,Economics,Unemployment
 2025-08-04,100,Economics,Unemployment
-2025-08-05,82,Economics,Unemployment
-2025-08-06,80,Economics,Unemployment
-2025-08-07,85,Economics,Unemployment
-2025-08-08,74,Economics,Unemployment
-2025-08-09,54,Economics,Unemployment
+2025-08-05,84,Economics,Unemployment
+2025-08-06,81,Economics,Unemployment
+2025-08-07,78,Economics,Unemployment
+2025-08-08,69,Economics,Unemployment
+2025-08-09,51,Economics,Unemployment
 2025-08-10,79,Economics,Unemployment
-2025-08-11,96,Economics,Unemployment
-2025-08-02,66,Politics,Elections
-2025-08-03,61,Politics,Elections
-2025-08-04,77,Politics,Elections
-2025-08-05,90,Politics,Elections
+2025-08-11,97,Economics,Unemployment
+2025-08-12,68,Economics,Unemployment
+2025-08-02,63,Politics,Elections
+2025-08-03,63,Politics,Elections
+2025-08-04,75,Politics,Elections
+2025-08-05,86,Politics,Elections
 2025-08-06,100,Politics,Elections
-2025-08-07,80,Politics,Elections
-2025-08-08,73,Politics,Elections
+2025-08-07,76,Politics,Elections
+2025-08-08,72,Politics,Elections
 2025-08-09,65,Politics,Elections
-2025-08-10,71,Politics,Elections
-2025-08-11,75,Politics,Elections
-2025-08-02,76,Politics,Government
-2025-08-03,78,Politics,Government
-2025-08-04,96,Politics,Government
-2025-08-05,100,Politics,Government
-2025-08-06,99,Politics,Government
-2025-08-07,95,Politics,Government
-2025-08-08,90,Politics,Government
-2025-08-09,71,Politics,Government
-2025-08-10,80,Politics,Government
-2025-08-11,98,Politics,Government
-2025-08-02,84,Politics,Policy
-2025-08-03,87,Politics,Policy
-2025-08-04,95,Politics,Policy
-2025-08-05,99,Politics,Policy
-2025-08-06,100,Politics,Policy
-2025-08-07,90,Politics,Policy
-2025-08-08,83,Politics,Policy
-2025-08-09,84,Politics,Policy
-2025-08-10,90,Politics,Policy
-2025-08-11,96,Politics,Policy
+2025-08-10,69,Politics,Elections
+2025-08-11,78,Politics,Elections
+2025-08-12,91,Politics,Elections
+2025-08-02,62,Politics,Government
+2025-08-03,64,Politics,Government
+2025-08-04,78,Politics,Government
+2025-08-05,83,Politics,Government
+2025-08-06,83,Politics,Government
+2025-08-07,78,Politics,Government
+2025-08-08,75,Politics,Government
+2025-08-09,61,Politics,Government
+2025-08-10,65,Politics,Government
+2025-08-11,83,Politics,Government
+2025-08-12,100,Politics,Government
+2025-08-02,61,Politics,Policy
+2025-08-03,67,Politics,Policy
+2025-08-04,75,Politics,Policy
+2025-08-05,78,Politics,Policy
+2025-08-06,76,Politics,Policy
+2025-08-07,69,Politics,Policy
+2025-08-08,66,Politics,Policy
+2025-08-09,64,Politics,Policy
+2025-08-10,70,Politics,Policy
+2025-08-11,79,Politics,Policy
+2025-08-12,100,Politics,Policy
 2025-08-02,74,Politics,Diplomacy
-2025-08-03,86,Politics,Diplomacy
-2025-08-04,86,Politics,Diplomacy
-2025-08-05,83,Politics,Diplomacy
-2025-08-06,92,Politics,Diplomacy
-2025-08-07,88,Politics,Diplomacy
-2025-08-08,86,Politics,Diplomacy
-2025-08-09,91,Politics,Diplomacy
-2025-08-10,100,Politics,Diplomacy
-2025-08-11,94,Politics,Diplomacy
-2025-08-02,54,Politics,Legislation
-2025-08-03,59,Politics,Legislation
-2025-08-04,92,Politics,Legislation
-2025-08-05,98,Politics,Legislation
-2025-08-06,100,Politics,Legislation
-2025-08-07,90,Politics,Legislation
-2025-08-08,78,Politics,Legislation
-2025-08-09,60,Politics,Legislation
-2025-08-10,62,Politics,Legislation
-2025-08-11,86,Politics,Legislation
-2025-08-02,91,Military,Defense
-2025-08-03,93,Military,Defense
-2025-08-04,87,Military,Defense
+2025-08-03,84,Politics,Diplomacy
+2025-08-04,89,Politics,Diplomacy
+2025-08-05,80,Politics,Diplomacy
+2025-08-06,90,Politics,Diplomacy
+2025-08-07,86,Politics,Diplomacy
+2025-08-08,80,Politics,Diplomacy
+2025-08-09,86,Politics,Diplomacy
+2025-08-10,99,Politics,Diplomacy
+2025-08-11,83,Politics,Diplomacy
+2025-08-12,100,Politics,Diplomacy
+2025-08-02,47,Politics,Legislation
+2025-08-03,51,Politics,Legislation
+2025-08-04,81,Politics,Legislation
+2025-08-05,83,Politics,Legislation
+2025-08-06,87,Politics,Legislation
+2025-08-07,83,Politics,Legislation
+2025-08-08,65,Politics,Legislation
+2025-08-09,51,Politics,Legislation
+2025-08-10,54,Politics,Legislation
+2025-08-11,79,Politics,Legislation
+2025-08-12,100,Politics,Legislation
+2025-08-02,90,Military,Defense
+2025-08-03,87,Military,Defense
+2025-08-04,81,Military,Defense
 2025-08-05,87,Military,Defense
-2025-08-06,89,Military,Defense
-2025-08-07,96,Military,Defense
-2025-08-08,89,Military,Defense
-2025-08-09,94,Military,Defense
-2025-08-10,100,Military,Defense
-2025-08-11,96,Military,Defense
-2025-08-02,88,Military,Army
-2025-08-03,92,Military,Army
+2025-08-06,84,Military,Defense
+2025-08-07,85,Military,Defense
+2025-08-08,84,Military,Defense
+2025-08-09,89,Military,Defense
+2025-08-10,96,Military,Defense
+2025-08-11,93,Military,Defense
+2025-08-12,100,Military,Defense
+2025-08-02,90,Military,Army
+2025-08-03,89,Military,Army
 2025-08-04,89,Military,Army
-2025-08-05,90,Military,Army
+2025-08-05,91,Military,Army
 2025-08-06,100,Military,Army
-2025-08-07,91,Military,Army
-2025-08-08,85,Military,Army
-2025-08-09,90,Military,Army
+2025-08-07,92,Military,Army
+2025-08-08,87,Military,Army
+2025-08-09,88,Military,Army
 2025-08-10,87,Military,Army
-2025-08-11,87,Military,Army
-2025-08-02,93,Military,Navy
-2025-08-03,91,Military,Navy
-2025-08-04,88,Military,Navy
-2025-08-05,88,Military,Navy
-2025-08-06,87,Military,Navy
-2025-08-07,96,Military,Navy
+2025-08-11,92,Military,Army
+2025-08-12,87,Military,Army
+2025-08-02,90,Military,Navy
+2025-08-03,88,Military,Navy
+2025-08-04,84,Military,Navy
+2025-08-05,86,Military,Navy
+2025-08-06,89,Military,Navy
+2025-08-07,87,Military,Navy
 2025-08-08,86,Military,Navy
-2025-08-09,94,Military,Navy
+2025-08-09,93,Military,Navy
 2025-08-10,100,Military,Navy
-2025-08-11,84,Military,Navy
-2025-08-02,95,Military,Air Force
-2025-08-03,94,Military,Air Force
-2025-08-04,95,Military,Air Force
+2025-08-11,87,Military,Navy
+2025-08-12,77,Military,Navy
+2025-08-02,99,Military,Air Force
+2025-08-03,98,Military,Air Force
+2025-08-04,100,Military,Air Force
 2025-08-05,95,Military,Air Force
-2025-08-06,100,Military,Air Force
+2025-08-06,95,Military,Air Force
 2025-08-07,98,Military,Air Force
-2025-08-08,92,Military,Air Force
-2025-08-09,100,Military,Air Force
-2025-08-10,96,Military,Air Force
-2025-08-11,93,Military,Air Force
-2025-08-02,65,Military,Cybersecurity
-2025-08-03,69,Military,Cybersecurity
-2025-08-04,88,Military,Cybersecurity
-2025-08-05,93,Military,Cybersecurity
-2025-08-06,98,Military,Cybersecurity
-2025-08-07,87,Military,Cybersecurity
-2025-08-08,86,Military,Cybersecurity
-2025-08-09,76,Military,Cybersecurity
-2025-08-10,78,Military,Cybersecurity
-2025-08-11,100,Military,Cybersecurity
-2025-08-02,71,Security,Cyber Attack
-2025-08-03,71,Security,Cyber Attack
-2025-08-04,88,Security,Cyber Attack
-2025-08-05,100,Security,Cyber Attack
-2025-08-06,91,Security,Cyber Attack
-2025-08-07,94,Security,Cyber Attack
-2025-08-08,78,Security,Cyber Attack
-2025-08-09,56,Security,Cyber Attack
-2025-08-10,65,Security,Cyber Attack
+2025-08-08,94,Military,Air Force
+2025-08-09,97,Military,Air Force
+2025-08-10,100,Military,Air Force
+2025-08-11,95,Military,Air Force
+2025-08-12,84,Military,Air Force
+2025-08-02,48,Military,Cybersecurity
+2025-08-03,45,Military,Cybersecurity
+2025-08-04,66,Military,Cybersecurity
+2025-08-05,68,Military,Cybersecurity
+2025-08-06,69,Military,Cybersecurity
+2025-08-07,69,Military,Cybersecurity
+2025-08-08,62,Military,Cybersecurity
+2025-08-09,56,Military,Cybersecurity
+2025-08-10,57,Military,Cybersecurity
+2025-08-11,76,Military,Cybersecurity
+2025-08-12,100,Military,Cybersecurity
+2025-08-02,70,Security,Cyber Attack
+2025-08-03,69,Security,Cyber Attack
+2025-08-04,87,Security,Cyber Attack
+2025-08-05,97,Security,Cyber Attack
+2025-08-06,89,Security,Cyber Attack
+2025-08-07,89,Security,Cyber Attack
+2025-08-08,71,Security,Cyber Attack
+2025-08-09,53,Security,Cyber Attack
+2025-08-10,64,Security,Cyber Attack
 2025-08-11,88,Security,Cyber Attack
-2025-08-02,58,Security,Terrorism
-2025-08-03,60,Security,Terrorism
-2025-08-04,80,Security,Terrorism
-2025-08-05,78,Security,Terrorism
-2025-08-06,87,Security,Terrorism
-2025-08-07,84,Security,Terrorism
-2025-08-08,71,Security,Terrorism
-2025-08-09,74,Security,Terrorism
-2025-08-10,85,Security,Terrorism
-2025-08-11,100,Security,Terrorism
-2025-08-02,77,Security,Surveillance
-2025-08-03,79,Security,Surveillance
-2025-08-04,89,Security,Surveillance
-2025-08-05,92,Security,Surveillance
-2025-08-06,97,Security,Surveillance
-2025-08-07,87,Security,Surveillance
-2025-08-08,84,Security,Surveillance
-2025-08-09,87,Security,Surveillance
-2025-08-10,87,Security,Surveillance
-2025-08-11,100,Security,Surveillance
-2025-08-02,92,Security,Border Control
-2025-08-03,97,Security,Border Control
-2025-08-04,97,Security,Border Control
-2025-08-05,98,Security,Border Control
-2025-08-06,84,Security,Border Control
-2025-08-07,89,Security,Border Control
-2025-08-08,76,Security,Border Control
-2025-08-09,90,Security,Border Control
-2025-08-10,100,Security,Border Control
-2025-08-11,100,Security,Border Control
-2025-08-02,72,Security,Counterterrorism
-2025-08-03,71,Security,Counterterrorism
-2025-08-04,85,Security,Counterterrorism
-2025-08-05,73,Security,Counterterrorism
-2025-08-06,75,Security,Counterterrorism
-2025-08-07,72,Security,Counterterrorism
-2025-08-08,83,Security,Counterterrorism
-2025-08-09,89,Security,Counterterrorism
-2025-08-10,84,Security,Counterterrorism
-2025-08-11,100,Security,Counterterrorism
+2025-08-12,100,Security,Cyber Attack
+2025-08-02,54,Security,Terrorism
+2025-08-03,55,Security,Terrorism
+2025-08-04,72,Security,Terrorism
+2025-08-05,72,Security,Terrorism
+2025-08-06,81,Security,Terrorism
+2025-08-07,77,Security,Terrorism
+2025-08-08,69,Security,Terrorism
+2025-08-09,65,Security,Terrorism
+2025-08-10,77,Security,Terrorism
+2025-08-11,91,Security,Terrorism
+2025-08-12,100,Security,Terrorism
+2025-08-02,59,Security,Surveillance
+2025-08-03,62,Security,Surveillance
+2025-08-04,74,Security,Surveillance
+2025-08-05,72,Security,Surveillance
+2025-08-06,75,Security,Surveillance
+2025-08-07,76,Security,Surveillance
+2025-08-08,70,Security,Surveillance
+2025-08-09,68,Security,Surveillance
+2025-08-10,70,Security,Surveillance
+2025-08-11,83,Security,Surveillance
+2025-08-12,100,Security,Surveillance
+2025-08-02,74,Security,Border Control
+2025-08-03,83,Security,Border Control
+2025-08-04,86,Security,Border Control
+2025-08-05,73,Security,Border Control
+2025-08-06,74,Security,Border Control
+2025-08-07,66,Security,Border Control
+2025-08-08,64,Security,Border Control
+2025-08-09,76,Security,Border Control
+2025-08-10,83,Security,Border Control
+2025-08-11,86,Security,Border Control
+2025-08-12,100,Security,Border Control
+2025-08-02,56,Security,Counterterrorism
+2025-08-03,57,Security,Counterterrorism
+2025-08-04,68,Security,Counterterrorism
+2025-08-05,59,Security,Counterterrorism
+2025-08-06,64,Security,Counterterrorism
+2025-08-07,59,Security,Counterterrorism
+2025-08-08,68,Security,Counterterrorism
+2025-08-09,71,Security,Counterterrorism
+2025-08-10,69,Security,Counterterrorism
+2025-08-11,86,Security,Counterterrorism
+2025-08-12,100,Security,Counterterrorism
